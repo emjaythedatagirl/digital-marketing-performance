@@ -126,6 +126,6 @@ ROI by Product Category: Household products had the highest ROI ($94K), followed
 - Maintain Consistent Spend During High Conversion Months: Sustaining ad spend levels during months of strong performance (e.g., Dec and Jan) could stabilize ROI trends.
 
 
-
+![](Thankyou.png)
 
 
