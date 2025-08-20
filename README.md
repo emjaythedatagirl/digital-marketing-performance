@@ -65,8 +65,8 @@ The Power BI dashboard was designed to be clear, interactive, and insightful. Ke
 
 - **Slicers**: Enabled filtering by Campaign Date, Product Name, Product Category, and Marketing Channel for deeper analysis.
 
-![](POWERBIPROJECT.png)
-You can interact with the report [here](OgbuMaryjanePowerBIProject.pbix)
+![](ogbuPowerBIProject.png)
+You can interact with the report [here](Ogbu_Maryjane_PowerBI_Project.pbix)
 
 ## ANALYSIS:
 
